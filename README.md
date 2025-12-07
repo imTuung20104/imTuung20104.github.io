@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/tung.926147">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="LINK_LINKEDIN_CUA_BAN">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -51,6 +51,33 @@
   </a>
 </div>
 
+<br/>
+
+<h2 align="center">🚀 Featured Projects (Gallery)</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📦 Logistics Cost Analyzer</h3>
+        <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" alt="Logistics Project">
+        <br/><br/>
+        <p>Tool Python tự động tính giá cước vận chuyển, giảm 50% thời gian làm báo cáo.</p>
+        <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
+          <img src="https://img.shields.io/badge/View_Project-FF9900?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🇨🇳 China-VN Trade Report</h3>
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" alt="Trade Dashboard">
+        <br/><br/>
+        <p>Dashboard theo dõi kim ngạch XNK Việt-Trung dùng Streamlit & Pandas.</p>
+        <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
+          <img src="https://img.shields.io/badge/View_Project-DE2910?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 <h2 align="center">📈 Coding Statistics</h2>
