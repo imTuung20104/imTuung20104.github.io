@@ -1,129 +1,114 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=350&q=80" width="100%" style="border-radius: 10px; object-fit: cover; opacity: 0.9;" alt="Header Art" />
-  <h1 style="font-size: 3em; margin-bottom: -10px;">Bùi Xuân Tùng</h1>
-  <p><b>The Visual Logistics Specialist 📦 | Lightroom Artist 📸</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,100:383838&height=220&section=header&text=PRODUCING%20VALUE&fontSize=65&fontAlignY=40&desc=Logistics%20%7C%20Visuals%20%7C%20Code&descAlignY=65&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<br/>
-
-### 🎞️ Góc nhìn của Tùng (My Perspective)
-
-Chào bạn, mình là sinh viên năm cuối **FTU**.
-Mình đam mê **Nhiếp ảnh** và theo đuổi ngành **Logistics**. Hai thứ tưởng chừng không liên quan, nhưng với mình, chúng có chung một triết lý:
-
-> *"Dữ liệu Logistics cũng giống như một file ảnh RAW. Nếu không có **Hậu kỳ (Post-processing)**, nó chỉ là những con số vô hồn."*
-
-* 🎨 Trong **Lightroom**, mình dùng *Color Grading* để bức ảnh có hồn.
-* 🐍 Trong **Logistics**, mình dùng *Python* để dữ liệu biết nói.
-
----
-
 <div align="center">
-  <h3>⚡ Quy trình xử lý (The Processing Pipeline)</h3>
   <br>
-  <span style="font-size: 16px; font-family: sans-serif; color: #444;">
-    📥 <b>Capture (Input)</b> 
-      ➡️   
-    ⚙️ <b>Processing (Lightroom/Python)</b> 
-      ➡️   
-    💎 <b>Export (Final Value)</b>
-  </span>
-  <br/><br/>
-</div>
-
-<br/>
-
-### 📽️ Những "Album" đã thực hiện (Projects)
-
-<table>
-  <tr>
-    <td width="35%">
-      <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:5px" />
-    </td>
-    <td>
-      <b>📦 Logistics Cost Analyzer</b>
-      <br/><br/>
-      <i>Vấn đề:</i> File báo giá từ Forwarder lộn xộn giống như một bức ảnh bị sai cân bằng trắng (White Balance).<br/>
-      <i>Giải pháp:</i> Tool Python này hoạt động như một "Preset" tự động, chuẩn hóa mọi bảng giá về một định dạng chuẩn trong 30 giây.<br/>
-      <i>Công cụ:</i> Python, Pandas.<br/>
-      <br/>
-      <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
-        <img src="https://img.shields.io/badge/View_Source_Code-212121?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="35%">
-      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:5px" />
-    </td>
-    <td>
-      <b>🇨🇳 China-Vietnam Trade Storyboard</b>
-      <br/><br/>
-      <i>Vấn đề:</i> Sếp cần nhìn thấy xu hướng thị trường, không phải những con số rời rạc.<br/>
-      <i>Giải pháp:</i> Dashboard này giống như một bức ảnh HDR, làm nổi bật những chi tiết quan trọng nhất (Highlighs) của thị trường XNK.<br/>
-      <i>Công cụ:</i> Streamlit, Plotly.<br/>
-      <br/>
-      <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
-        <img src="https://img.shields.io/badge/View_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🧰 Túi đồ nghề (My Gear)
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,excel,github&perline=4&theme=light" alt="Tech Skills" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔴+REC:+Optimizing+Supply+Chain...;📸+ISO+100:+Capturing+Moments...;🎹+PLAY:+Mixing+Data+with+Python..." alt="Typing SVG" />
   </a>
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-Classic-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Mandarin-HSK_5-DE2910?style=for-the-badge&logo=china&logoColor=white" alt="Chinese" />
-  <img src="https://img.shields.io/badge/Incoterms-2020-0056D2?style=for-the-badge&logo=world&logoColor=white" alt="Logistics" />
 </div>
 
 <br/>
 
-### 🎧 Edit Mode: On (Sở thích)
+<h3 align="center">🎛️ THE WORKFLOW MIX</h3>
+<div align="center" style="font-family: monospace; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #333;">
+  <span style="font-size: 20px;">📦 <b>RAW DATA</b></span><br/>
+  ⬇️<br/>
+  <span style="font-size: 20px;">🎚️ <b>PROCESSING</b> <br/><i>(Python / Lightroom)</i></span><br/>
+  ⬇️<br/>
+  <span style="font-size: 20px;">💎 <b>MASTERPIECE</b> <br/><i>(Report / Photo)</i></span>
+</div>
 
-Khi không phải xử lý vận đơn, mình dành thời gian đi săn ảnh phố phường Hà Nội và chỉnh màu trên nền nhạc Indie.
+<br/>
+
+<h3 align="center">🎧 THE CREATIVE STUDIO</h3>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+      <h4 align="center" style="color: white;">📸 VISUAL GEAR</h4>
+      
+  <div align="center">
+        <img src="my_sony_gear.jpg" width="100%" style="border-radius: 5px; border: 1px solid #444;" alt="Sony Gear" />
+      </div>
+      
+  <br/>
+      
+  <div align="center">
+        <img src="https://img.shields.io/badge/SONY-Alpha_Series-black?style=flat-square&logo=sony&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LENS-G_Master_Quality-orange?style=flat-square"/>
+        <br/>
+        <code style="color: #8b949e; font-size: 12px;">ISO: Auto | f/4.0 | 18-105mm</code>
+      </div>
+    </td>
+
+   <td width="50%" valign="top" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+      <h4 align="center" style="color: white;">🎹 SOUND STATION</h4>
+      
+   <div align="center">
+        <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" width="80%" height="40" style="opacity:0.7"/>
+        <br/><br/>
+        
+   <p style="color: #8b949e; font-size: 12px; margin-bottom: 5px;">🎵 TRACK OF THE DAY:</p>
+        <a href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI">
+          <img src="https://img.shields.io/badge/▶_NOW_PLAYING-Seven_Nation_Army_(Remix)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="100%"/>
+        </a>
+        
+   <hr style="border-color: #30363d; margin: 15px 0;">
+   
+   <p style="color: #8b949e; font-size: 12px;">SELECT VIBE:</p>
+        
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wqrS">
+          <img src="https://img.shields.io/badge/☕_LOFI-Focus_Mode-363636?style=flat-square&logo=spotify"/>
+        </a>
+        <br/>
+        <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn">
+          <img src="https://img.shields.io/badge/🌃_LOUNGE-Late_Night_Coding-363636?style=flat-square&logo=spotify"/>
+        </a>
+        <br/>
+        <a href="https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0">
+          <img src="https://img.shields.io/badge/🎸_INDIE-Creative_Flow-363636?style=flat-square&logo=spotify"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🎞️ PROJECT REEL</h3>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h4>📸 My Photography</h4>
-      <img src="https://images.unsplash.com/photo-1493863641943-9b68992a8d07?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&h=180&q=80" style="border-radius: 10px; margin-bottom: 5px;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Camera-Sony_Alpha-black?style=flat-square&logo=sony&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Edit_with-Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/>
-    </td>
-    
-    <td width="50%" align="center">
-      <h4>🎵 Vibe lúc làm việc</h4>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=imTuung20104&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=dummy_user&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="100%"/>
+      <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
+        <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=250&q=80" style="border-radius: 10px; border: 1px solid #333;" />
       </a>
+      <br/>
+      <b>📦 Logistics Cost Analyzer</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=250&q=80" style="border-radius: 10px; border: 1px solid #333;" />
+      </a>
+      <br/>
+      <b>🇨🇳 Trade Dashboard</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Streamlit-Data_Viz-FF4B4B?style=flat-square"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
----
-
 <div align="center">
-  <p><i>"Focus on the details, and the big picture will take care of itself."</i></p>
-  
-  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Email-Liên_hệ-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-Kết_nối-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,ps,lr,pr&perline=6&theme=dark" alt="Skills" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=imTuung20104&label=Visitors&color=blueviolet&style=flat" alt="Views" />
+  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=imTuung20104&label=Studio%20Visits&color=2ecc71&style=flat" alt="Views" />
 </div>
