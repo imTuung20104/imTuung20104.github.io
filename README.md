@@ -41,11 +41,11 @@
       </code>
       <br/><br/>
       
-  <img src="https://img.shields.io/badge/SENSOR-APS--C_Crop-black?style=flat-square"/>
+   <img src="https://img.shields.io/badge/SENSOR-APS--C_Crop-black?style=flat-square"/>
       <img src="https://img.shields.io/badge/APERTURE-Constant_f4-orange?style=flat-square"/>
     </td>
 
-  <td width="50%" valign="top" style="background-color: #161b22; padding: 15px; border-radius: 0 10px 10px 0; border: 1px solid #30363d;">
+<td width="50%" valign="top" style="background-color: #161b22; padding: 15px; border-radius: 0 10px 10px 0; border: 1px solid #30363d;">
       <h4 align="left" style="color: white; margin: 0;">MY PALETTE (Gu màu)</h4>
       <p style="font-size: 12px; color: #aaa;">"Mỗi bức ảnh, cũng như mỗi bản báo cáo, đều cần một tông màu chủ đạo."</p>
       
@@ -59,7 +59,7 @@
       
   <br/>
       
-   <h4 align="left" style="color: white; margin: 0;">RECENT SHOTS</h4>
+  <h4 align="left" style="color: white; margin: 0;">RECENT SHOTS</h4>
       <div align="left" style="margin-top: 10px;">
         <img src="https://images.unsplash.com/photo-1516961642265-531546e84af2?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
         <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
@@ -143,5 +143,32 @@
           <img src="https://img.shields.io/badge/▶_LISTEN-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
         </a>
         <a href="https://open.spotify.com/track/4eLqJ98m8d7N5l6s2E6i3K">
-          <img src="https://
-          
+          <img src="https://img.shields.io/badge/⏭_NEXT-Chung_Ta_Cua_Tuong_Lai-black?style=for-the-badge&logo=spotify"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <hr style="width: 50%; opacity: 0.2;">
+  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/tung.926147"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  
+  <br/><br/>
+  
+  <h4 align="center" style="color: gray;">🌍 Global Visitors Map</h4>
+  <a href="https://github.com/imTuung20104">
+    <img src="https://profile-counter.glitch.me/imTuung20104/count.svg" alt="Visitor Count" />
+  </a>
+  <br/>
+  <a href="https://info.flagcounter.com/YOUR_ID">
+    <img src="https://s11.flagcounter.com/count2/Be8N/bg_0D1117/txt_FFFFFF/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+  
+  <br/><br/>
+  <p style="font-size: 11px; color: #555;">© 2025 Bui Xuan Tung. Built with 📸 & 🐍</p>
+</div>
