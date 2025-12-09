@@ -41,15 +41,15 @@
       </code>
       <br/><br/>
       
-   <img src="https://img.shields.io/badge/SENSOR-APS--C_Crop-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SENSOR-APS--C_Crop-black?style=flat-square"/>
       <img src="https://img.shields.io/badge/APERTURE-Constant_f4-orange?style=flat-square"/>
     </td>
 
-<td width="50%" valign="top" style="background-color: #161b22; padding: 15px; border-radius: 0 10px 10px 0; border: 1px solid #30363d;">
+   <td width="50%" valign="top" style="background-color: #161b22; padding: 15px; border-radius: 0 10px 10px 0; border: 1px solid #30363d;">
       <h4 align="left" style="color: white; margin: 0;">MY PALETTE (Gu màu)</h4>
       <p style="font-size: 12px; color: #aaa;">"Mỗi bức ảnh, cũng như mỗi bản báo cáo, đều cần một tông màu chủ đạo."</p>
       
-  <div align="center" style="display: flex; gap: 5px; margin-top: 10px;">
+   <div align="center" style="display: flex; gap: 5px; margin-top: 10px;">
         <div style="background-color: #0F2027; width: 40px; height: 40px; border-radius: 50%;" title="Deep Blue"></div>
         <div style="background-color: #203A43; width: 40px; height: 40px; border-radius: 50%;" title="Teal"></div>
         <div style="background-color: #2C5364; width: 40px; height: 40px; border-radius: 50%;" title="Slate"></div>
@@ -59,7 +59,7 @@
       
   <br/>
       
-  <h4 align="left" style="color: white; margin: 0;">RECENT SHOTS</h4>
+   <h4 align="left" style="color: white; margin: 0;">RECENT SHOTS</h4>
       <div align="left" style="margin-top: 10px;">
         <img src="https://images.unsplash.com/photo-1516961642265-531546e84af2?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
         <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
@@ -133,13 +133,13 @@
         <h3 style="color: white; margin: 0; font-family: sans-serif;">ĐỪNG LÀM TRÁI TIM ANH ĐAU</h3>
         <p style="color: #00d2d3; margin: 5px 0; font-size: 14px;">Sơn Tùng M-TP • <i>Single</i></p>
         
-  <p style="color: #888; font-size: 12px; font-style: italic;">
+   <p style="color: #888; font-size: 12px; font-style: italic;">
           "Vì ở phía sau anh... vẫn luôn có một người..."
         </p>
         
-  <hr style="border-color: #333; opacity: 0.3;">
+   <hr style="border-color: #333; opacity: 0.3;">
         
-  <a href="https://open.spotify.com/track/622M65s1b5A7xZg73Sj4qg">
+   <a href="https://open.spotify.com/track/622M65s1b5A7xZg73Sj4qg">
           <img src="https://img.shields.io/badge/▶_LISTEN-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
         </a>
         <a href="https://open.spotify.com/track/4eLqJ98m8d7N5l6s2E6i3K">
