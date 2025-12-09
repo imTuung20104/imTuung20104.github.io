@@ -1,174 +1,118 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Bui%20Xuan%20Tung&fontSize=65&fontAlignY=42&desc=The%20Art%20of%20Logistics%20%7C%20Visuals%20%7C%20Code&descAlignY=68&descAlign=50&fontColor=ffffff&stroke=000000&animation=fadeIn" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-  <br>
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=22&pause=1000&color=00d2d3&center=true&vCenter=true&width=800&lines=🎶+Playing:+Nhin+lai+cuoc+song+khi+ma+ta+buoc+qua...(Son+Tung);🎶+Playing:+Muon+ngoi+o+vi+tri+khong+ai+ngoi+duoc...;🎶+Playing:+Dung+lam+trai+tim+anh+dau...;💡+Daily+Mode:+Logistics+is+Poetry+in+Motion.;📷+Focus:+Sony+a6400+%7C+18-105mm+f4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=BUI+XUAN+TUNG;VISUAL+DIRECTOR+%26+LOGISTICS+ARCHITECT" alt="Cinematic Title" />
   </a>
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
 </div>
 
 <br/>
 
-<h3 align="center">📐 THE INTERSECTION</h3>
-<div align="center" style="max-width: 700px; margin: 0 auto; font-family: serif; color: #bbb; font-style: italic;">
+<div align="center" style="font-family: serif; max-width: 700px; margin: 0 auto;">
   <p>
-    "Tôi đứng giữa hai thế giới: Sự chính xác tuyệt đối của <b>Logistics</b> và Sự ngẫu hứng đầy cảm xúc của <b>Nhiếp ảnh</b>. Python là cây cầu tôi xây để nối liền hai bờ bến đó."
+    <i>"Logistics là bộ khung sườn. Nghệ thuật là da thịt.<br/>
+    Tôi kể những câu chuyện kinh doanh bằng tư duy của một đạo diễn hình ảnh."</i>
   </p>
 </div>
 
-<div align="center" style="font-family: monospace; letter-spacing: 3px; margin-top: 15px; color: #555;">
-  DATA ──> PROCESSING ──> ART
-</div>
+<br/><br/>
 
-<br/>
+<h3 align="center" style="font-family: serif;">I. THE VISUAL RIG</h3>
 
-<h3 align="center">📸 THE VISUAL LAB</h3>
-
-<table align="center" style="border: none; border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; padding: 15px; border-radius: 10px 0 0 10px; border: 1px solid #30363d;">
-      <h4 align="left" style="color: white; margin: 0;">MY RIG (Vũ khí)</h4>
-      <br/>
-      <img src="my_sony_gear.jpg" width="100%" style="border-radius: 5px; filter: contrast(1.1);" alt="Sony Gear" />
-      <br/><br/>
-      
-  <code style="color: #8b949e; font-size: 12px;">
-        <b>SYSTEM:</b> Sony Alpha 6400<br/>
-        <b>GLASS:</b> 18-105mm F4 G OSS<br/>
-        <b>VIBE:</b> Cinematic / Moody
-      </code>
-      <br/><br/>
-      
-  <img src="https://img.shields.io/badge/SENSOR-APS--C_Crop-black?style=flat-square"/>
-      <img src="https://img.shields.io/badge/APERTURE-Constant_f4-orange?style=flat-square"/>
+    <td width="50%" align="center" style="padding: 20px;">
+      <img src="my_sony_gear.jpg" width="100%" style="border-radius: 2px; box-shadow: 10px 10px 0px #222;" />
     </td>
-
-   <td width="50%" valign="top" style="background-color: #161b22; padding: 15px; border-radius: 0 10px 10px 0; border: 1px solid #30363d;">
-      <h4 align="left" style="color: white; margin: 0;">MY PALETTE (Gu màu)</h4>
-      <p style="font-size: 12px; color: #aaa;">"Mỗi bức ảnh, cũng như mỗi bản báo cáo, đều cần một tông màu chủ đạo."</p>
-      
-   <div align="center" style="display: flex; gap: 5px; margin-top: 10px;">
-        <div style="background-color: #0F2027; width: 40px; height: 40px; border-radius: 50%;" title="Deep Blue"></div>
-        <div style="background-color: #203A43; width: 40px; height: 40px; border-radius: 50%;" title="Teal"></div>
-        <div style="background-color: #2C5364; width: 40px; height: 40px; border-radius: 50%;" title="Slate"></div>
-        <div style="background-color: #F2994A; width: 40px; height: 40px; border-radius: 50%;" title="Orange Accent"></div>
-        <div style="background-color: #D3D3D3; width: 40px; height: 40px; border-radius: 50%;" title="Highlight"></div>
-      </div>
+    
+  <td width="50%" valign="middle" style="padding: 20px;">
+      <h4 style="letter-spacing: 2px; margin-bottom: 5px;">SONY A6400</h4>
+      <p style="font-size: 12px; color: #888; margin-top: 0;">DIRECTOR'S CHOICE</p>
       
   <br/>
       
-   <h4 align="left" style="color: white; margin: 0;">RECENT SHOTS</h4>
-      <div align="left" style="margin-top: 10px;">
-        <img src="https://images.unsplash.com/photo-1516961642265-531546e84af2?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
-        <img src="https://images.unsplash.com/photo-1555421689-491a97ff2040?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
-        <img src="https://images.unsplash.com/photo-1492551557933-34265f7af79e?w=80&h=80&fit=crop" style="border-radius: 5px; opacity: 0.8;" />
-      </div>
+  <code style="color: #ccc;">
+        ⚡ SENSOR.....: APS-C Exmor CMOS<br/>
+        🔭 LENS.......: Sony G 18-105mm f/4<br/>
+        🎨 PROFILE....: S-Log2 / HLG<br/>
+        🎬 RES........: 4K HDR
+      </code>
+      
+   <br/><br/>
+      
+  <img src="https://img.shields.io/badge/EDIT-Lightroom-black?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CUT-Premiere_Pro-black?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3 align="center">📦 THE LOGIC CORE</h3>
+<h3 align="center" style="font-family: serif;">II. FEATURED FILMS (PROJECTS)</h3>
 
 <table align="center" style="border: none;">
   <tr>
-    <td width="60%" valign="top">
-      <h4 align="left">💼 Supply Chain Expertise</h4>
-      <ul style="font-size: 14px;">
-        <li><b>Procurement:</b> Chiến lược mua hàng B2B & Đàm phán giá.</li>
-        <li><b>Incoterms 2020:</b> Áp dụng linh hoạt EXW, FOB, CIF, DDP.</li>
-        <li><b>Data Analysis:</b> Dùng Python để dự báo nhu cầu (Forecasting).</li>
-      </ul>
-      <h4 align="left">🐍 Tech Stack</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,vscode,excel,github&perline=4&theme=light" alt="Tech Skills" />
+    <td width="50%" align="center" style="padding: 10px;">
+      <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
+        <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80" style="border-radius: 5px; filter: grayscale(100%);" width="100%" />
       </a>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h4 align="left">🇨🇳 Language</h4>
-      <img src="https://img.shields.io/badge/Mandarin-HSK_5-DE2910?style=for-the-badge&logo=china&logoColor=white" width="100%"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/English-Professional-0056D2?style=for-the-badge&logo=united-nations&logoColor=white" width="100%"/>
+      <b style="letter-spacing: 1px;">THE COST ANALYZER</b><br/>
+      <font size="2" color="gray">PYTHON SCRIPT</font>
+    </td>
+    
+  <td width="50%" align="center" style="padding: 10px;">
+      <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80" style="border-radius: 5px; filter: grayscale(100%);" width="100%" />
+      </a>
+      <br/><br/>
+      <b style="letter-spacing: 1px;">THE TRADE DASHBOARD</b><br/>
+      <font size="2" color="gray">DATA VISUALIZATION</font>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3 align="center">🚀 FEATURED PROJECTS</h3>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-       <a href="https://github.com/imTuung20104/Logistics-Cost-Analyzer">
-        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=280&q=80" style="border-radius: 10px;" />
-      </a>
-      <h4>📦 Logistics Cost Analyzer</h4>
-      <font size="2"><i>Python Script | Automation</i></font>
-    </td>
-    <td width="50%" align="center">
-       <a href="https://github.com/imTuung20104/China-Vietnam-Trade-Report">
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=280&q=80" style="border-radius: 10px;" />
-      </a>
-      <h4>🇨🇳 China-VN Dashboard</h4>
-      <font size="2"><i>Streamlit | Data Viz</i></font>
-    </td>
-  </tr>
-</table>
+<h3 align="center" style="font-family: serif;">III. SOUNDTRACK</h3>
 
-<br/>
-
-<h3 align="center">🎹 ON AIR: M-TP STATION</h3>
-<div align="center" style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 20px; padding: 20px; max-width: 650px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
+<div align="center" style="border: 1px solid #333; padding: 20px; width: 80%; border-radius: 2px;">
   <table style="border: none; width: 100%;">
     <tr>
-      <td width="30%" align="center">
-        <img src="https://i.scdn.co/image/ab67616d0000b2730a8801d01308a34241e3d069" width="120" style="border-radius: 50%; border: 3px solid #222; animation: spin 4s linear infinite;" />
-        <br/><br/>
-        <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="20" width="100" style="opacity: 0.6;" />
+      <td width="20%">
+         <img src="https://media.giphy.com/media/SjbFp55z1T2tW/giphy.gif" height="40" style="filter: invert(1); opacity: 0.5;" />
       </td>
-      <td width="70%" style="padding-left: 15px;">
-        <h3 style="color: white; margin: 0; font-family: sans-serif;">ĐỪNG LÀM TRÁI TIM ANH ĐAU</h3>
-        <p style="color: #00d2d3; margin: 5px 0; font-size: 14px;">Sơn Tùng M-TP • <i>Single</i></p>
-        
-   <p style="color: #888; font-size: 12px; font-style: italic;">
-          "Vì ở phía sau anh... vẫn luôn có một người..."
-        </p>
-        
-   <hr style="border-color: #333; opacity: 0.3;">
-        
-   <a href="https://open.spotify.com/track/622M65s1b5A7xZg73Sj4qg">
-          <img src="https://img.shields.io/badge/▶_LISTEN-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-        </a>
-        <a href="https://open.spotify.com/track/4eLqJ98m8d7N5l6s2E6i3K">
-          <img src="https://img.shields.io/badge/⏭_NEXT-Chung_Ta_Cua_Tuong_Lai-black?style=for-the-badge&logo=spotify"/>
+      <td width="60%" align="center">
+        <p style="font-family: monospace; letter-spacing: 2px; font-size: 14px; margin: 0;">NOW PLAYING</p>
+        <p style="font-weight: bold; font-size: 18px; margin: 5px 0;">ĐỪNG LÀM TRÁI TIM ANH ĐAU</p>
+        <p style="font-size: 12px; color: gray;">SƠN TÙNG M-TP</p>
+      </td>
+      <td width="20%" align="right">
+        <a href="https://open.spotify.com/track/622M65s1b5A7xZg73Sj4qg">
+          <img src="https://img.shields.io/badge/PLAY-black?style=for-the-badge&logo=spotify&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
-  <hr style="width: 50%; opacity: 0.2;">
-  <a href="mailto:tungbx15.lsc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/tung.926147"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
   <br/><br/>
   
-  <h4 align="center" style="color: gray;">🌍 Global Visitors Map</h4>
-  <a href="https://github.com/imTuung20104">
-    <img src="https://profile-counter.glitch.me/imTuung20104/count.svg" alt="Visitor Count" />
-  </a>
+  <p style="font-family: monospace; font-size: 10px; letter-spacing: 3px; color: #666;">
+    DIRECTED BY BUI XUAN TUNG<br/><br/>
+    BASED IN HANOI, VIETNAM<br/>
+    CONTACT: TUNGBX15.LSC@GMAIL.COM
+  </p>
+  
   <br/>
-  <a href="https://info.flagcounter.com/YOUR_ID">
-    <img src="https://s11.flagcounter.com/count2/Be8N/bg_0D1117/txt_FFFFFF/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
+  
+  <a href="LINK_LINKEDIN_CUA_BAN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/imTuung20104"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
   
   <br/><br/>
-  <p style="font-size: 11px; color: #555;">© 2025 Bui Xuan Tung. Built with 📸 & 🐍</p>
 </div>
